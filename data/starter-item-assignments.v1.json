@@ -1,0 +1,4002 @@
+{
+  "2% milk": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "acorn squash": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "active dry yeast": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "aftershave": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "agave syrup": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "aioli": {
+    "category": "condiment",
+    "emoji": "🧂"
+  },
+  "air freshener": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "ale": {
+    "category": "alcohol",
+    "emoji": "🍷"
+  },
+  "all-purpose cleaner": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "all-purpose flour": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "allspice": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "almond": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "almond butter": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "almond extract": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "almond milk": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "aluminum foil": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "anchovy": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "angel hair": {
+    "category": "pasta",
+    "emoji": "🍝"
+  },
+  "apple": {
+    "category": "produce",
+    "emoji": "🍎"
+  },
+  "apple cider": {
+    "category": "produce",
+    "emoji": "🍎"
+  },
+  "apple cider vinegar": {
+    "category": "pantry",
+    "emoji": "🍎"
+  },
+  "apple juice": {
+    "category": "beverage",
+    "emoji": "🧃"
+  },
+  "apple sauce": {
+    "category": "produce",
+    "emoji": "🍎"
+  },
+  "apricot": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "arborio rice": {
+    "category": "grain",
+    "emoji": "🍚"
+  },
+  "artichoke": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "artichoke dip": {
+    "category": "deli",
+    "emoji": "🥪"
+  },
+  "artichoke heart": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "arugula": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "asparagus": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "avocado oil": {
+    "category": "pantry",
+    "emoji": "🥑"
+  },
+  "baby bottle": {
+    "category": "baby",
+    "emoji": "🍼"
+  },
+  "baby carrot": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "baby cereal": {
+    "category": "baby",
+    "emoji": "🍼"
+  },
+  "baby food": {
+    "category": "baby",
+    "emoji": "🍼"
+  },
+  "baby formula powder": {
+    "category": "baby",
+    "emoji": "🍼"
+  },
+  "baby lotion": {
+    "category": "baby",
+    "emoji": "🧴"
+  },
+  "baby potato": {
+    "category": "produce",
+    "emoji": "🥔"
+  },
+  "baby puree": {
+    "category": "baby",
+    "emoji": "🍼"
+  },
+  "baby shampoo": {
+    "category": "baby",
+    "emoji": "🧴"
+  },
+  "baby snack": {
+    "category": "baby",
+    "emoji": "🍼"
+  },
+  "baby spinach": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "baby wipe": {
+    "category": "baby",
+    "emoji": "🍼"
+  },
+  "bacon": {
+    "category": "meat",
+    "emoji": "🥓"
+  },
+  "bagel": {
+    "category": "bakery",
+    "emoji": "🥯"
+  },
+  "bagel thin": {
+    "category": "bakery",
+    "emoji": "🥯"
+  },
+  "baguette": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "baked bean": {
+    "category": "canned",
+    "emoji": "🥫"
+  },
+  "baking chocolate": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "baking cocoa": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "baking flour": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "baking paper": {
+    "category": "baking",
+    "emoji": "🧁"
+  },
+  "baking powder": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "baking soda": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "baking tray": {
+    "category": "baking",
+    "emoji": "🧁"
+  },
+  "baking yeast": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "balsamic vinegar": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "bamboo shoot": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "banana": {
+    "category": "produce",
+    "emoji": "🍌"
+  },
+  "banana chip": {
+    "category": "produce",
+    "emoji": "🍌"
+  },
+  "bar soap": {
+    "category": "personal_care",
+    "emoji": "🧼"
+  },
+  "barley": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "basil": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "basil dried": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "basmati rice": {
+    "category": "grain",
+    "emoji": "🍚"
+  },
+  "battery": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "bay leaf": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "bbq sauce": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "bean sprout": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "beef": {
+    "category": "meat",
+    "emoji": "🥩"
+  },
+  "beef bouillon": {
+    "category": "pantry",
+    "emoji": "🥩"
+  },
+  "beef chuck": {
+    "category": "meat",
+    "emoji": "🥩"
+  },
+  "beef jerky": {
+    "category": "snack",
+    "emoji": "🥩"
+  },
+  "beef mince": {
+    "category": "meat",
+    "emoji": "🥩"
+  },
+  "beef patty": {
+    "category": "meat",
+    "emoji": "🥩"
+  },
+  "beef roast": {
+    "category": "meat",
+    "emoji": "🥩"
+  },
+  "beef stew meat": {
+    "category": "meat",
+    "emoji": "🥩"
+  },
+  "beer": {
+    "category": "alcohol",
+    "emoji": "🍺"
+  },
+  "beet": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "beetroot": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "bell pepper": {
+    "category": "produce",
+    "emoji": "🫑"
+  },
+  "bin bag": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "bin liner": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "bird seed": {
+    "category": "pet",
+    "emoji": "🐾"
+  },
+  "biscuit": {
+    "category": "snack",
+    "emoji": "🍿"
+  },
+  "black bean": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "black pepper": {
+    "category": "pantry",
+    "emoji": "🫑"
+  },
+  "black tea": {
+    "category": "beverage",
+    "emoji": "🍵"
+  },
+  "black tea bag": {
+    "category": "pantry",
+    "emoji": "🍵"
+  },
+  "blackberry": {
+    "category": "produce",
+    "emoji": "🫐"
+  },
+  "bleach": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "blood orange": {
+    "category": "produce",
+    "emoji": "🍊"
+  },
+  "blue cheese": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "blueberry": {
+    "category": "produce",
+    "emoji": "🫐"
+  },
+  "body lotion": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "body scrub": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "body wash": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "bok choy": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "bologna": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "bouillon cube": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "bran cereal": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "brazil nut": {
+    "category": "nut_seed",
+    "emoji": "🥜"
+  },
+  "bread": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "bread flour": {
+    "category": "grain",
+    "emoji": "🍞"
+  },
+  "bread improver": {
+    "category": "pantry",
+    "emoji": "🍞"
+  },
+  "bread roll": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "breadcrumbs": {
+    "category": "grain",
+    "emoji": "🍞"
+  },
+  "breadcrumbs italian": {
+    "category": "pantry",
+    "emoji": "🍞"
+  },
+  "breadcrumbs seasoned": {
+    "category": "pantry",
+    "emoji": "🍞"
+  },
+  "breadstick": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "breakfast burrito": {
+    "category": "breakfast",
+    "emoji": "🥣"
+  },
+  "breakfast sandwich": {
+    "category": "breakfast",
+    "emoji": "🥣"
+  },
+  "breakfast sausage": {
+    "category": "meat",
+    "emoji": "🌭"
+  },
+  "brie": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "brioche": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "brisket": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "broccoli": {
+    "category": "produce",
+    "emoji": "🥦"
+  },
+  "broccolini": {
+    "category": "produce",
+    "emoji": "🥦"
+  },
+  "brown rice": {
+    "category": "grain",
+    "emoji": "🍚"
+  },
+  "brown rice packet": {
+    "category": "grain",
+    "emoji": "🍚"
+  },
+  "brown sugar": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "brownie": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "brownie mix": {
+    "category": "baking",
+    "emoji": "🧁"
+  },
+  "brussels sprout": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "bulgur": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "bun": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "burger": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "butter": {
+    "category": "dairy",
+    "emoji": "🧈"
+  },
+  "butter spread": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "buttermilk": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "butternut": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "butternut squash": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "button mushroom": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "cabbage": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "cacao nib": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "cajun seasoning": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "cake": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "cake mix": {
+    "category": "baking",
+    "emoji": "🧁"
+  },
+  "calamari": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "camembert": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "candle": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "candy": {
+    "category": "snack",
+    "emoji": "🍬"
+  },
+  "canned anchovy": {
+    "category": "canned",
+    "emoji": "🥫"
+  },
+  "canned beef broth": {
+    "category": "canned",
+    "emoji": "🥩"
+  },
+  "canned black bean": {
+    "category": "canned",
+    "emoji": "🥫"
+  },
+  "canned black bean soup": {
+    "category": "canned",
+    "emoji": "🥫"
+  },
+  "canned broth": {
+    "category": "canned",
+    "emoji": "🥫"
+  },
+  "canned chicken broth": {
+    "category": "canned",
+    "emoji": "🍗"
+  },
+  "canned chicken noodle soup": {
+    "category": "canned",
+    "emoji": "🍗"
+  },
+  "canned chickpea": {
+    "category": "canned",
+    "emoji": "🥫"
+  },
+  "canned chili": {
+    "category": "canned",
+    "emoji": "🌶️"
+  },
+  "canned clam chowder": {
+    "category": "canned",
+    "emoji": "🥫"
+  },
+  "canned coconut cream": {
+    "category": "canned",
+    "emoji": "🥛"
+  },
+  "canned coconut milk": {
+    "category": "canned",
+    "emoji": "🥛"
+  },
+  "canned corn": {
+    "category": "canned",
+    "emoji": "🥫"
+  },
+  "canned crushed tomato": {
+    "category": "canned",
+    "emoji": "🍅"
+  },
+  "canned diced tomato": {
+    "category": "canned",
+    "emoji": "🍅"
+  },
+  "canned fruit": {
+    "category": "canned",
+    "emoji": "🥫"
+  },
+  "canned green bean": {
+    "category": "canned",
+    "emoji": "🥫"
+  },
+  "canned kidney bean": {
+    "category": "canned",
+    "emoji": "🥫"
+  },
+  "canned lentil": {
+    "category": "canned",
+    "emoji": "🥫"
+  },
+  "canned lentil soup": {
+    "category": "canned",
+    "emoji": "🥫"
+  },
+  "canned minestrone": {
+    "category": "canned",
+    "emoji": "🥫"
+  },
+  "canned mushroom": {
+    "category": "canned",
+    "emoji": "🥫"
+  },
+  "canned pea": {
+    "category": "canned",
+    "emoji": "🥫"
+  },
+  "canned pineapple": {
+    "category": "canned",
+    "emoji": "🍎"
+  },
+  "canned pumpkin": {
+    "category": "canned",
+    "emoji": "🥫"
+  },
+  "canned ravioli": {
+    "category": "canned",
+    "emoji": "🥫"
+  },
+  "canned salmon": {
+    "category": "canned",
+    "emoji": "🐟"
+  },
+  "canned sardine": {
+    "category": "canned",
+    "emoji": "🥫"
+  },
+  "canned soup": {
+    "category": "canned",
+    "emoji": "🥫"
+  },
+  "canned stock": {
+    "category": "canned",
+    "emoji": "🥫"
+  },
+  "canned tomato": {
+    "category": "canned",
+    "emoji": "🍅"
+  },
+  "canned tomato basil soup": {
+    "category": "canned",
+    "emoji": "🍅"
+  },
+  "canned tomato puree": {
+    "category": "pantry",
+    "emoji": "🍅"
+  },
+  "canned tomato soup": {
+    "category": "canned",
+    "emoji": "🍅"
+  },
+  "canned tuna": {
+    "category": "canned",
+    "emoji": "🐟"
+  },
+  "canned tuna in oil": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "canned tuna in water": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "canned vegetable broth": {
+    "category": "canned",
+    "emoji": "🥫"
+  },
+  "canned whole tomato": {
+    "category": "canned",
+    "emoji": "🍅"
+  },
+  "cannellini bean": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "canola oil": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "cantaloupe": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "cappelletti": {
+    "category": "pasta",
+    "emoji": "🍝"
+  },
+  "cardamom": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "carrot": {
+    "category": "produce",
+    "emoji": "🥕"
+  },
+  "cashew": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "cat food": {
+    "category": "pet",
+    "emoji": "🐱"
+  },
+  "cat litter": {
+    "category": "pet",
+    "emoji": "🐾"
+  },
+  "cat snack": {
+    "category": "pet",
+    "emoji": "🐾"
+  },
+  "cat treat": {
+    "category": "pet",
+    "emoji": "🐾"
+  },
+  "cauliflower": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "cauliflower rice": {
+    "category": "produce",
+    "emoji": "🍚"
+  },
+  "cayenne": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "celeriac": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "celery": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "celery salt": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "celery stick": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "cereal": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "chai": {
+    "category": "beverage",
+    "emoji": "🥤"
+  },
+  "champagne": {
+    "category": "alcohol",
+    "emoji": "🍾"
+  },
+  "chard": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "cheddar": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "cheese block": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "cheese slice": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "cherry": {
+    "category": "produce",
+    "emoji": "🍒"
+  },
+  "cherry tomato": {
+    "category": "produce",
+    "emoji": "🍅"
+  },
+  "chia seed": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "chicken": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "chicken bouillon": {
+    "category": "pantry",
+    "emoji": "🍗"
+  },
+  "chicken breast": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "chicken drumstick": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "chicken nugget": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "chicken salad": {
+    "category": "deli",
+    "emoji": "🍗"
+  },
+  "chicken schnitzel": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "chicken tender": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "chicken thigh": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "chicken wing": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "chickpea": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "chicory": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "chili crisp": {
+    "category": "condiment",
+    "emoji": "🌶️"
+  },
+  "chili garlic sauce": {
+    "category": "pantry",
+    "emoji": "🧄"
+  },
+  "chili pepper": {
+    "category": "produce",
+    "emoji": "🌶️"
+  },
+  "chili powder": {
+    "category": "pantry",
+    "emoji": "🌶️"
+  },
+  "chip": {
+    "category": "snack",
+    "emoji": "🍿"
+  },
+  "chive": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "chocolate": {
+    "category": "snack",
+    "emoji": "🍫"
+  },
+  "chocolate bar": {
+    "category": "snack",
+    "emoji": "🍿"
+  },
+  "chocolate chip": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "chorizo": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "chutney": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "ciabatta": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "cider": {
+    "category": "alcohol",
+    "emoji": "🍷"
+  },
+  "cilantro": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "cinnamon": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "clam": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "clementine": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "cling film": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "clove": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "cocoa powder": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "coconut": {
+    "category": "produce",
+    "emoji": "🥥"
+  },
+  "coconut aminos": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "coconut cream": {
+    "category": "international",
+    "emoji": "🥛"
+  },
+  "coconut flake": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "coconut milk beverage": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "coconut oil": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "coconut sugar": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "coconut water": {
+    "category": "beverage",
+    "emoji": "💧"
+  },
+  "cod": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "coffee": {
+    "category": "beverage",
+    "emoji": "☕"
+  },
+  "coffee bean": {
+    "category": "pantry",
+    "emoji": "☕"
+  },
+  "cola": {
+    "category": "beverage",
+    "emoji": "🥤"
+  },
+  "colby": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "cold brew": {
+    "category": "beverage",
+    "emoji": "🥤"
+  },
+  "coleslaw": {
+    "category": "deli",
+    "emoji": "🥪"
+  },
+  "coleslaw kit": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "collard green": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "condensed milk": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "conditioner": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "contact solution": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "cookie": {
+    "category": "bakery",
+    "emoji": "🍪"
+  },
+  "cookie mix": {
+    "category": "baking",
+    "emoji": "🧁"
+  },
+  "cooking sake": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "coriander leaf": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "coriander spice": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "corn": {
+    "category": "produce",
+    "emoji": "🌽"
+  },
+  "corn chip": {
+    "category": "snack",
+    "emoji": "🍿"
+  },
+  "corned beef": {
+    "category": "meat",
+    "emoji": "🥩"
+  },
+  "cornflake": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "cornmeal": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "cornstarch": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "cottage cheese": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "cotton pad": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "cotton swab": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "couscous": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "crab": {
+    "category": "seafood",
+    "emoji": "🦀"
+  },
+  "cracker": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "cranberry": {
+    "category": "produce",
+    "emoji": "🫐"
+  },
+  "cranberry juice": {
+    "category": "beverage",
+    "emoji": "🧃"
+  },
+  "cream": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "cream cheese": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "cremini mushroom": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "croissant": {
+    "category": "bakery",
+    "emoji": "🥐"
+  },
+  "crouton": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "crumpet": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "crushed red pepper": {
+    "category": "pantry",
+    "emoji": "🫑"
+  },
+  "cucumber": {
+    "category": "produce",
+    "emoji": "🥒"
+  },
+  "cumin": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "cup noodle": {
+    "category": "pantry",
+    "emoji": "🍜"
+  },
+  "cupcake": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "curry paste": {
+    "category": "international",
+    "emoji": "🍱"
+  },
+  "curry powder": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "custard": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "daikon": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "dark chocolate": {
+    "category": "snack",
+    "emoji": "🍿"
+  },
+  "date": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "date syrup": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "deli cheese": {
+    "category": "deli",
+    "emoji": "🥪"
+  },
+  "deli ham": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "deli turkey": {
+    "category": "meat",
+    "emoji": "🦃"
+  },
+  "deodorant": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "diaper": {
+    "category": "baby",
+    "emoji": "🍼"
+  },
+  "diet soda": {
+    "category": "beverage",
+    "emoji": "🥤"
+  },
+  "dijon mustard": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "dill": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "dill pickle": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "dill weed": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "dish soap": {
+    "category": "household",
+    "emoji": "🧼"
+  },
+  "dish sponge": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "dishwasher detergent": {
+    "category": "household",
+    "emoji": "🧴"
+  },
+  "dishwasher tablet": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "disinfectant spray": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "disinfectant wipe": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "dog biscuit": {
+    "category": "pet",
+    "emoji": "🐾"
+  },
+  "dog chew": {
+    "category": "pet",
+    "emoji": "🐾"
+  },
+  "dog food": {
+    "category": "pet",
+    "emoji": "🐶"
+  },
+  "dog poop bag": {
+    "category": "pet",
+    "emoji": "🐾"
+  },
+  "dog treat": {
+    "category": "pet",
+    "emoji": "🐾"
+  },
+  "donut": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "dragonfruit": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "dried fruit": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "dryer sheet": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "dumpling wrapper": {
+    "category": "international",
+    "emoji": "🍱"
+  },
+  "egg": {
+    "category": "breakfast",
+    "emoji": "🥚"
+  },
+  "egg noodle": {
+    "category": "pasta",
+    "emoji": "🥚"
+  },
+  "egg salad": {
+    "category": "deli",
+    "emoji": "🥚"
+  },
+  "egg white": {
+    "category": "breakfast",
+    "emoji": "🥚"
+  },
+  "eggplant": {
+    "category": "produce",
+    "emoji": "🍆"
+  },
+  "endive": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "energy drink": {
+    "category": "beverage",
+    "emoji": "🥤"
+  },
+  "english cucumber": {
+    "category": "produce",
+    "emoji": "🥒"
+  },
+  "english muffin": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "enoki mushroom": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "evaporated milk": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "everything bagel seasoning": {
+    "category": "pantry",
+    "emoji": "🥯"
+  },
+  "extra virgin olive oil": {
+    "category": "pantry",
+    "emoji": "🫒"
+  },
+  "fabric softener": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "face moisturizer": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "face sunscreen": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "face wash": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "falafel mix": {
+    "category": "international",
+    "emoji": "🍱"
+  },
+  "farfalle": {
+    "category": "pasta",
+    "emoji": "🍝"
+  },
+  "farro": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "fat-free butter": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "fat-free cheddar": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "fat-free cream cheese": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "fat-free milk": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "fat-free mozzarella": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "fat-free yogurt": {
+    "category": "dairy",
+    "emoji": "🥣"
+  },
+  "fennel": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "fennel seed": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "feta": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "fettuccine": {
+    "category": "pasta",
+    "emoji": "🍝"
+  },
+  "fig": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "fish fillet": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "fish food": {
+    "category": "pet",
+    "emoji": "🐾"
+  },
+  "fish roe": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "fish sauce": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "fish stick": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "five spice": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "flatbread": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "flaxseed": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "floor cleaner": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "floss": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "flour": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "food coloring": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "formula": {
+    "category": "baby",
+    "emoji": "🍼"
+  },
+  "freezer bag": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "fresh apple": {
+    "category": "produce",
+    "emoji": "🍎"
+  },
+  "fresh avocado": {
+    "category": "produce",
+    "emoji": "🥑"
+  },
+  "fresh banana": {
+    "category": "produce",
+    "emoji": "🍌"
+  },
+  "fresh blueberry": {
+    "category": "produce",
+    "emoji": "🫐"
+  },
+  "fresh broccoli": {
+    "category": "produce",
+    "emoji": "🥦"
+  },
+  "fresh cucumber": {
+    "category": "produce",
+    "emoji": "🥒"
+  },
+  "fresh grape": {
+    "category": "produce",
+    "emoji": "🍇"
+  },
+  "fresh herb mix": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "fresh lemon": {
+    "category": "produce",
+    "emoji": "🍋"
+  },
+  "fresh lettuce": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "fresh lime": {
+    "category": "produce",
+    "emoji": "🍋"
+  },
+  "fresh mango": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "fresh orange": {
+    "category": "produce",
+    "emoji": "🍊"
+  },
+  "fresh salsa": {
+    "category": "deli",
+    "emoji": "🥪"
+  },
+  "fresh spinach": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "fresh strawberry": {
+    "category": "produce",
+    "emoji": "🫐"
+  },
+  "fresh tomato": {
+    "category": "produce",
+    "emoji": "🍅"
+  },
+  "frosting": {
+    "category": "baking",
+    "emoji": "🧁"
+  },
+  "frozen berry": {
+    "category": "frozen",
+    "emoji": "🫐"
+  },
+  "frozen berry mix": {
+    "category": "frozen",
+    "emoji": "🫐"
+  },
+  "frozen blueberry": {
+    "category": "frozen",
+    "emoji": "🫐"
+  },
+  "frozen broccoli": {
+    "category": "frozen",
+    "emoji": "🥦"
+  },
+  "frozen chicken nugget": {
+    "category": "frozen",
+    "emoji": "🍗"
+  },
+  "frozen corn": {
+    "category": "frozen",
+    "emoji": "🧊"
+  },
+  "frozen dumpling": {
+    "category": "frozen",
+    "emoji": "🧊"
+  },
+  "frozen fish fillet": {
+    "category": "frozen",
+    "emoji": "🧊"
+  },
+  "frozen french fry": {
+    "category": "frozen",
+    "emoji": "🧊"
+  },
+  "frozen fruit": {
+    "category": "frozen",
+    "emoji": "🧊"
+  },
+  "frozen garlic": {
+    "category": "frozen",
+    "emoji": "🧄"
+  },
+  "frozen ginger": {
+    "category": "frozen",
+    "emoji": "🧊"
+  },
+  "frozen mango": {
+    "category": "frozen",
+    "emoji": "🧊"
+  },
+  "frozen meal": {
+    "category": "frozen",
+    "emoji": "🧊"
+  },
+  "frozen mixed vegetable": {
+    "category": "frozen",
+    "emoji": "🧊"
+  },
+  "frozen pea": {
+    "category": "frozen",
+    "emoji": "🧊"
+  },
+  "frozen pizza": {
+    "category": "frozen",
+    "emoji": "🍕"
+  },
+  "frozen pizza margherita": {
+    "category": "frozen",
+    "emoji": "🍕"
+  },
+  "frozen shrimp": {
+    "category": "frozen",
+    "emoji": "🍤"
+  },
+  "frozen spinach": {
+    "category": "frozen",
+    "emoji": "🧊"
+  },
+  "frozen spinach block": {
+    "category": "frozen",
+    "emoji": "🧊"
+  },
+  "frozen stir fry vegetable": {
+    "category": "frozen",
+    "emoji": "🧊"
+  },
+  "frozen strawberry": {
+    "category": "frozen",
+    "emoji": "🫐"
+  },
+  "frozen vegetable": {
+    "category": "frozen",
+    "emoji": "🧊"
+  },
+  "frozen waffle": {
+    "category": "frozen",
+    "emoji": "🧊"
+  },
+  "frozen yogurt": {
+    "category": "dairy",
+    "emoji": "🥣"
+  },
+  "fruit bar": {
+    "category": "snack",
+    "emoji": "🍿"
+  },
+  "fruit snack": {
+    "category": "snack",
+    "emoji": "🍿"
+  },
+  "fusilli": {
+    "category": "pasta",
+    "emoji": "🍝"
+  },
+  "garam masala": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "garbage bag": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "garlic": {
+    "category": "produce",
+    "emoji": "🧄"
+  },
+  "garlic clove": {
+    "category": "produce",
+    "emoji": "🧄"
+  },
+  "garlic paste": {
+    "category": "produce",
+    "emoji": "🧄"
+  },
+  "garlic powder": {
+    "category": "pantry",
+    "emoji": "🧄"
+  },
+  "garlic salt": {
+    "category": "pantry",
+    "emoji": "🧄"
+  },
+  "gelatin": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "gelatin sheet": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "gelato": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "ghee": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "gift card": {
+    "category": "other",
+    "emoji": "🧺"
+  },
+  "gin": {
+    "category": "alcohol",
+    "emoji": "🍷"
+  },
+  "ginger": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "ginger ale": {
+    "category": "beverage",
+    "emoji": "🥤"
+  },
+  "ginger paste": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "ginger powder": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "ginger root": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "glass cleaner": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "gluten-free bagel": {
+    "category": "bakery",
+    "emoji": "🥯"
+  },
+  "gluten-free bread": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "gluten-free naan": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "gluten-free pasta": {
+    "category": "pasta",
+    "emoji": "🍝"
+  },
+  "gluten-free tortilla": {
+    "category": "bakery",
+    "emoji": "🌮"
+  },
+  "gluten-free wrap": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "gnocchi": {
+    "category": "pasta",
+    "emoji": "🍝"
+  },
+  "goat cheese": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "gochujang": {
+    "category": "international",
+    "emoji": "🍱"
+  },
+  "golden apple": {
+    "category": "produce",
+    "emoji": "🍎"
+  },
+  "gouda": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "granola": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "granola bar": {
+    "category": "snack",
+    "emoji": "🍿"
+  },
+  "grape": {
+    "category": "produce",
+    "emoji": "🍇"
+  },
+  "grape juice": {
+    "category": "beverage",
+    "emoji": "🧃"
+  },
+  "grape tomato": {
+    "category": "produce",
+    "emoji": "🍇"
+  },
+  "grapefruit": {
+    "category": "produce",
+    "emoji": "🍇"
+  },
+  "grapeseed oil": {
+    "category": "pantry",
+    "emoji": "🍇"
+  },
+  "grated parmesan": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "gravy granule": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "greek yogurt": {
+    "category": "dairy",
+    "emoji": "🥣"
+  },
+  "green apple": {
+    "category": "produce",
+    "emoji": "🍎"
+  },
+  "green bean": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "green lentil": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "green onion": {
+    "category": "produce",
+    "emoji": "🧅"
+  },
+  "green tea": {
+    "category": "beverage",
+    "emoji": "🍵"
+  },
+  "green tea bag": {
+    "category": "pantry",
+    "emoji": "🍵"
+  },
+  "grits": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "ground beef": {
+    "category": "meat",
+    "emoji": "🥩"
+  },
+  "ground chicken": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "ground coffee": {
+    "category": "pantry",
+    "emoji": "☕"
+  },
+  "ground cumin": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "ground turkey": {
+    "category": "meat",
+    "emoji": "🦃"
+  },
+  "guacamole": {
+    "category": "deli",
+    "emoji": "🥪"
+  },
+  "guava": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "gummy candy": {
+    "category": "snack",
+    "emoji": "🍿"
+  },
+  "haddock": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "hair gel": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "hair spray": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "half and half": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "halibut": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "halloumi": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "ham": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "hamburger bun": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "hand cream": {
+    "category": "personal_care",
+    "emoji": "🥛"
+  },
+  "hand lotion": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "hand sanitizer": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "hand soap": {
+    "category": "personal_care",
+    "emoji": "🧼"
+  },
+  "hand wash": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "harissa": {
+    "category": "international",
+    "emoji": "🍱"
+  },
+  "hash brown": {
+    "category": "breakfast",
+    "emoji": "🥣"
+  },
+  "hazelnut": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "heavy cream": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "heirloom tomato": {
+    "category": "produce",
+    "emoji": "🍅"
+  },
+  "hemp seed": {
+    "category": "nut_seed",
+    "emoji": "🥜"
+  },
+  "herbal tea": {
+    "category": "beverage",
+    "emoji": "🍵"
+  },
+  "herbal tea bag": {
+    "category": "pantry",
+    "emoji": "🍵"
+  },
+  "hoisin sauce": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "honey": {
+    "category": "pantry",
+    "emoji": "🍯"
+  },
+  "honey mustard": {
+    "category": "condiment",
+    "emoji": "🧂"
+  },
+  "honeydew": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "hot chocolate mix": {
+    "category": "beverage",
+    "emoji": "🥤"
+  },
+  "hot dog": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "hot dog bun": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "hot sauce": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "hummus": {
+    "category": "deli",
+    "emoji": "🥪"
+  },
+  "ice cream": {
+    "category": "dairy",
+    "emoji": "🍨"
+  },
+  "ice cream tub": {
+    "category": "frozen",
+    "emoji": "🥛"
+  },
+  "ice cube": {
+    "category": "frozen",
+    "emoji": "🧊"
+  },
+  "iceberg lettuce": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "iced coffee": {
+    "category": "beverage",
+    "emoji": "☕"
+  },
+  "iced tea": {
+    "category": "beverage",
+    "emoji": "🍵"
+  },
+  "icing sugar": {
+    "category": "baking",
+    "emoji": "🧁"
+  },
+  "instant coffee": {
+    "category": "pantry",
+    "emoji": "☕"
+  },
+  "instant gravy": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "instant mash": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "instant noodle": {
+    "category": "pantry",
+    "emoji": "🍜"
+  },
+  "instant noodle seasoning": {
+    "category": "pantry",
+    "emoji": "🍜"
+  },
+  "instant oatmeal": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "instant oats": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "instant rice": {
+    "category": "pantry",
+    "emoji": "🍚"
+  },
+  "instant soup": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "instant yeast": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "italian dressing": {
+    "category": "condiment",
+    "emoji": "🧂"
+  },
+  "italian sausage": {
+    "category": "meat",
+    "emoji": "🌭"
+  },
+  "italian seasoning": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "jackfruit": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "jalapeno": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "jam": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "jasmine rice": {
+    "category": "grain",
+    "emoji": "🍚"
+  },
+  "jerk seasoning": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "jicama": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "juice": {
+    "category": "beverage",
+    "emoji": "🧃"
+  },
+  "kale": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "kefir": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "ketchup": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "kidney bean": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "kimchi": {
+    "category": "international",
+    "emoji": "🍱"
+  },
+  "kitchen towel": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "kiwi": {
+    "category": "produce",
+    "emoji": "🥝"
+  },
+  "kohlrabi": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "kosher salt": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "kumquat": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "labneh": {
+    "category": "international",
+    "emoji": "🍱"
+  },
+  "lactose-free butter": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "lactose-free cheddar": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "lactose-free cream cheese": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "lactose-free milk": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "lactose-free mozzarella": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "lactose-free yogurt": {
+    "category": "dairy",
+    "emoji": "🥣"
+  },
+  "lager": {
+    "category": "alcohol",
+    "emoji": "🍷"
+  },
+  "lamb": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "lamb chop": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "lamb leg": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "lasagna sheet": {
+    "category": "pasta",
+    "emoji": "🍝"
+  },
+  "laundry detergent": {
+    "category": "household",
+    "emoji": "🧴"
+  },
+  "leek": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "lemon": {
+    "category": "produce",
+    "emoji": "🍋"
+  },
+  "lemon pepper seasoning": {
+    "category": "pantry",
+    "emoji": "🍋"
+  },
+  "lemonade": {
+    "category": "beverage",
+    "emoji": "🍋"
+  },
+  "lemongrass": {
+    "category": "produce",
+    "emoji": "🍋"
+  },
+  "lentil": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "lettuce": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "lettuce heart": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "light bulb": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "lime": {
+    "category": "produce",
+    "emoji": "🍋"
+  },
+  "linguine": {
+    "category": "pasta",
+    "emoji": "🍝"
+  },
+  "lip balm": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "liqueur": {
+    "category": "alcohol",
+    "emoji": "🍷"
+  },
+  "liquid smoke": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "lobster": {
+    "category": "seafood",
+    "emoji": "🦞"
+  },
+  "lotion": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "low-fat butter": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "low-fat cheddar": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "low-fat cream cheese": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "low-fat milk": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "low-fat mozzarella": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "low-fat yogurt": {
+    "category": "dairy",
+    "emoji": "🥣"
+  },
+  "lychee": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "macadamia": {
+    "category": "nut_seed",
+    "emoji": "🥜"
+  },
+  "macaroni": {
+    "category": "pasta",
+    "emoji": "🍝"
+  },
+  "mackerel": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "makeup remover": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "malt vinegar": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "mandarin": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "mango": {
+    "category": "produce",
+    "emoji": "🥭"
+  },
+  "manicotti": {
+    "category": "pasta",
+    "emoji": "🍝"
+  },
+  "maple syrup": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "marshmallow": {
+    "category": "snack",
+    "emoji": "🍿"
+  },
+  "mascarpone": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "match": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "mayonnaise": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "meatball": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "melon": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "microwave rice": {
+    "category": "grain",
+    "emoji": "🍚"
+  },
+  "milk": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "milk chocolate": {
+    "category": "snack",
+    "emoji": "🥛"
+  },
+  "milk powder": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "milkshake": {
+    "category": "beverage",
+    "emoji": "🥛"
+  },
+  "mineral water": {
+    "category": "beverage",
+    "emoji": "💧"
+  },
+  "mint": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "mirin": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "miso": {
+    "category": "international",
+    "emoji": "🍱"
+  },
+  "mixed greens": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "molasses": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "monterey jack": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "mouthwash": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "mozzarella": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "msg": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "muesli": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "muffin": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "muffin liner": {
+    "category": "baking",
+    "emoji": "🧁"
+  },
+  "multigrain bread": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "mushroom": {
+    "category": "produce",
+    "emoji": "🍄"
+  },
+  "mussel": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "mustard": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "mustard powder": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "mustard seed": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "naan": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "naan bread": {
+    "category": "international",
+    "emoji": "🍞"
+  },
+  "napa cabbage": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "napkin": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "navy bean": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "nectarine": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "nori": {
+    "category": "international",
+    "emoji": "🍱"
+  },
+  "nut butter": {
+    "category": "nut_seed",
+    "emoji": "🥜"
+  },
+  "nut mix": {
+    "category": "snack",
+    "emoji": "🍿"
+  },
+  "nutella": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "nutmeg": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "oat": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "oat bran": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "oat milk": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "oatmeal": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "oatmeal packet": {
+    "category": "breakfast",
+    "emoji": "🥣"
+  },
+  "octopus": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "okra": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "olive oil": {
+    "category": "pantry",
+    "emoji": "🫒"
+  },
+  "olive tapenade": {
+    "category": "deli",
+    "emoji": "🫒"
+  },
+  "onion": {
+    "category": "produce",
+    "emoji": "🧅"
+  },
+  "onion powder": {
+    "category": "pantry",
+    "emoji": "🧅"
+  },
+  "onion salt": {
+    "category": "pantry",
+    "emoji": "🧅"
+  },
+  "orange": {
+    "category": "produce",
+    "emoji": "🍊"
+  },
+  "orange juice": {
+    "category": "beverage",
+    "emoji": "🧃"
+  },
+  "orange marmalade": {
+    "category": "pantry",
+    "emoji": "🍊"
+  },
+  "oregano": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "organic apple": {
+    "category": "produce",
+    "emoji": "🍎"
+  },
+  "organic avocado": {
+    "category": "produce",
+    "emoji": "🥑"
+  },
+  "organic banana": {
+    "category": "produce",
+    "emoji": "🍌"
+  },
+  "organic blueberry": {
+    "category": "produce",
+    "emoji": "🫐"
+  },
+  "organic broccoli": {
+    "category": "produce",
+    "emoji": "🥦"
+  },
+  "organic cucumber": {
+    "category": "produce",
+    "emoji": "🥒"
+  },
+  "organic grape": {
+    "category": "produce",
+    "emoji": "🍇"
+  },
+  "organic lemon": {
+    "category": "produce",
+    "emoji": "🍋"
+  },
+  "organic lettuce": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "organic lime": {
+    "category": "produce",
+    "emoji": "🍋"
+  },
+  "organic mango": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "organic orange": {
+    "category": "produce",
+    "emoji": "🍊"
+  },
+  "organic spinach": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "organic strawberry": {
+    "category": "produce",
+    "emoji": "🫐"
+  },
+  "organic tomato": {
+    "category": "produce",
+    "emoji": "🍅"
+  },
+  "orzo": {
+    "category": "pasta",
+    "emoji": "🍝"
+  },
+  "oyster": {
+    "category": "seafood",
+    "emoji": "🦪"
+  },
+  "oyster mushroom": {
+    "category": "produce",
+    "emoji": "🦪"
+  },
+  "oyster sauce": {
+    "category": "pantry",
+    "emoji": "🦪"
+  },
+  "pacifier": {
+    "category": "baby",
+    "emoji": "🍼"
+  },
+  "pancake": {
+    "category": "bakery",
+    "emoji": "🥞"
+  },
+  "pancake mix": {
+    "category": "breakfast",
+    "emoji": "🥣"
+  },
+  "panko": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "papaya": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "paper cup": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "paper plate": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "paper towel": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "paprika": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "parchment paper": {
+    "category": "baking",
+    "emoji": "🧁"
+  },
+  "parmesan": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "parsley": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "parsnip": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "passionfruit": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "pasta": {
+    "category": "pasta",
+    "emoji": "🍝"
+  },
+  "pasta bake sauce": {
+    "category": "pantry",
+    "emoji": "🍝"
+  },
+  "pasta salad": {
+    "category": "deli",
+    "emoji": "🍝"
+  },
+  "pasta sauce": {
+    "category": "pantry",
+    "emoji": "🍝"
+  },
+  "pastrami": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "pea": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "peach": {
+    "category": "produce",
+    "emoji": "🍑"
+  },
+  "peanut": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "peanut butter": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "pear": {
+    "category": "produce",
+    "emoji": "🍐"
+  },
+  "pecan": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "penne": {
+    "category": "pasta",
+    "emoji": "🍝"
+  },
+  "pepper": {
+    "category": "produce",
+    "emoji": "🫑"
+  },
+  "pepper jack": {
+    "category": "dairy",
+    "emoji": "🫑"
+  },
+  "pepperoni": {
+    "category": "meat",
+    "emoji": "🫑"
+  },
+  "persimmon": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "pesto": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "pet shampoo": {
+    "category": "pet",
+    "emoji": "🧴"
+  },
+  "pet waste bag": {
+    "category": "pet",
+    "emoji": "🐾"
+  },
+  "pho noodle": {
+    "category": "international",
+    "emoji": "🍜"
+  },
+  "pickle": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "pickle chip": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "pickle relish": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "pickle spear": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "pickled cucumber": {
+    "category": "pantry",
+    "emoji": "🥒"
+  },
+  "pickled jalapeno": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "pickled onion": {
+    "category": "pantry",
+    "emoji": "🧅"
+  },
+  "pie crust": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "pie filling": {
+    "category": "baking",
+    "emoji": "🧁"
+  },
+  "pine nut": {
+    "category": "nut_seed",
+    "emoji": "🥜"
+  },
+  "pineapple": {
+    "category": "produce",
+    "emoji": "🍍"
+  },
+  "pinto bean": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "pistachio": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "pita": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "pita bread": {
+    "category": "international",
+    "emoji": "🍞"
+  },
+  "pita chip": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "pita pocket": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "pizza dough": {
+    "category": "bakery",
+    "emoji": "🍕"
+  },
+  "plain yogurt": {
+    "category": "dairy",
+    "emoji": "🥣"
+  },
+  "plantain": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "plastic cutlery": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "plastic wrap": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "plum": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "poblano pepper": {
+    "category": "produce",
+    "emoji": "🫑"
+  },
+  "polenta": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "pomegranate": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "popcorn": {
+    "category": "snack",
+    "emoji": "🍿"
+  },
+  "popcorn kernel": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "popcorn microwave": {
+    "category": "snack",
+    "emoji": "🍿"
+  },
+  "popsicle": {
+    "category": "snack",
+    "emoji": "🍿"
+  },
+  "pork": {
+    "category": "meat",
+    "emoji": "🥓"
+  },
+  "pork belly": {
+    "category": "meat",
+    "emoji": "🥓"
+  },
+  "pork chop": {
+    "category": "meat",
+    "emoji": "🥓"
+  },
+  "pork loin": {
+    "category": "meat",
+    "emoji": "🥓"
+  },
+  "pork mince": {
+    "category": "meat",
+    "emoji": "🥓"
+  },
+  "portobello mushroom": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "potato": {
+    "category": "produce",
+    "emoji": "🥔"
+  },
+  "potato chip": {
+    "category": "snack",
+    "emoji": "🥔"
+  },
+  "potato salad": {
+    "category": "deli",
+    "emoji": "🥔"
+  },
+  "powdered gelatin": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "powdered sugar": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "prawn": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "pretzel": {
+    "category": "pantry",
+    "emoji": "🥨"
+  },
+  "pretzel stick": {
+    "category": "snack",
+    "emoji": "🥨"
+  },
+  "prosciutto": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "protein bar": {
+    "category": "snack",
+    "emoji": "🍿"
+  },
+  "protein cookie": {
+    "category": "snack",
+    "emoji": "🍿"
+  },
+  "protein yogurt": {
+    "category": "dairy",
+    "emoji": "🥣"
+  },
+  "provolone": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "prune": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "pudding": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "pumpkin": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "pumpkin seed": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "quince": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "quinoa": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "radicchio": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "radish": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "raisin": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "ramen": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "ramen broth": {
+    "category": "international",
+    "emoji": "🍱"
+  },
+  "ramen noodle": {
+    "category": "pasta",
+    "emoji": "🍜"
+  },
+  "ramen packet": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "ranch dressing": {
+    "category": "condiment",
+    "emoji": "🧂"
+  },
+  "raspberry": {
+    "category": "produce",
+    "emoji": "🫐"
+  },
+  "raspberry jam": {
+    "category": "pantry",
+    "emoji": "🫐"
+  },
+  "ravioli": {
+    "category": "pasta",
+    "emoji": "🍝"
+  },
+  "razor": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "recycling bag": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "red apple": {
+    "category": "produce",
+    "emoji": "🍎"
+  },
+  "red cabbage": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "red lentil": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "red onion": {
+    "category": "produce",
+    "emoji": "🧅"
+  },
+  "red potato": {
+    "category": "produce",
+    "emoji": "🥔"
+  },
+  "red wine": {
+    "category": "alcohol",
+    "emoji": "🍷"
+  },
+  "red wine vinegar": {
+    "category": "pantry",
+    "emoji": "🍷"
+  },
+  "relish": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "reusable bag": {
+    "category": "other",
+    "emoji": "🧺"
+  },
+  "ribeye": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "rice": {
+    "category": "grain",
+    "emoji": "🍚"
+  },
+  "rice cake": {
+    "category": "pantry",
+    "emoji": "🍚"
+  },
+  "rice cake caramel": {
+    "category": "snack",
+    "emoji": "🍚"
+  },
+  "rice cracker": {
+    "category": "snack",
+    "emoji": "🍚"
+  },
+  "rice noodle": {
+    "category": "pasta",
+    "emoji": "🍚"
+  },
+  "rice noodle thin": {
+    "category": "pasta",
+    "emoji": "🍚"
+  },
+  "rice noodle wide": {
+    "category": "pasta",
+    "emoji": "🍚"
+  },
+  "rice paper": {
+    "category": "international",
+    "emoji": "🍚"
+  },
+  "rice vinegar": {
+    "category": "pantry",
+    "emoji": "🍚"
+  },
+  "rice vinegar seasoning": {
+    "category": "pantry",
+    "emoji": "🍚"
+  },
+  "ricotta": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "rigatoni": {
+    "category": "pasta",
+    "emoji": "🍝"
+  },
+  "ripe apple": {
+    "category": "produce",
+    "emoji": "🍎"
+  },
+  "ripe avocado": {
+    "category": "produce",
+    "emoji": "🥑"
+  },
+  "ripe banana": {
+    "category": "produce",
+    "emoji": "🍌"
+  },
+  "ripe blueberry": {
+    "category": "produce",
+    "emoji": "🫐"
+  },
+  "ripe broccoli": {
+    "category": "produce",
+    "emoji": "🥦"
+  },
+  "ripe cucumber": {
+    "category": "produce",
+    "emoji": "🥒"
+  },
+  "ripe grape": {
+    "category": "produce",
+    "emoji": "🍇"
+  },
+  "ripe lemon": {
+    "category": "produce",
+    "emoji": "🍋"
+  },
+  "ripe lettuce": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "ripe lime": {
+    "category": "produce",
+    "emoji": "🍋"
+  },
+  "ripe mango": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "ripe orange": {
+    "category": "produce",
+    "emoji": "🍊"
+  },
+  "ripe spinach": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "ripe strawberry": {
+    "category": "produce",
+    "emoji": "🫐"
+  },
+  "ripe tomato": {
+    "category": "produce",
+    "emoji": "🍅"
+  },
+  "roll": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "rolled oat": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "roma tomato": {
+    "category": "produce",
+    "emoji": "🍅"
+  },
+  "romaine": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "rosemary": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "rubber glove": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "rum": {
+    "category": "alcohol",
+    "emoji": "🍷"
+  },
+  "russet potato": {
+    "category": "produce",
+    "emoji": "🥔"
+  },
+  "rutabaga": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "rye bread": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "saffron": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "sage": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "salad kit": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "salami": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "salmon": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "salsa": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "salsa fresca": {
+    "category": "deli",
+    "emoji": "🥪"
+  },
+  "salt": {
+    "category": "pantry",
+    "emoji": "🧂"
+  },
+  "salted butter": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "sambal oelek": {
+    "category": "international",
+    "emoji": "🍱"
+  },
+  "sandwich bag": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "sanitary pad": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "sardine": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "sausage": {
+    "category": "meat",
+    "emoji": "🌭"
+  },
+  "scallion": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "scallop": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "scone": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "scrub brush": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "sea salt": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "seaweed snack": {
+    "category": "snack",
+    "emoji": "🍿"
+  },
+  "seed butter": {
+    "category": "nut_seed",
+    "emoji": "🥜"
+  },
+  "self-raising flour": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "semi-skim milk": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "semolina": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "serrano pepper": {
+    "category": "produce",
+    "emoji": "🫑"
+  },
+  "sesame oil": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "sesame seed": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "shallot": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "shampoo": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "shaving cream": {
+    "category": "personal_care",
+    "emoji": "🥛"
+  },
+  "shawarma sauce": {
+    "category": "international",
+    "emoji": "🍱"
+  },
+  "shawarma seasoning": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "shiitake mushroom": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "shopping bag": {
+    "category": "other",
+    "emoji": "🧺"
+  },
+  "short rib": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "shredded cheese": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "shredded coconut": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "shrimp": {
+    "category": "seafood",
+    "emoji": "🍤"
+  },
+  "sirloin": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "skim milk": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "smoked ham": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "smoked paprika": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "smoked salmon": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "smoked trout": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "snap pea": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "snapper": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "snow pea": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "soap": {
+    "category": "personal_care",
+    "emoji": "🧼"
+  },
+  "soba noodle": {
+    "category": "pasta",
+    "emoji": "🍜"
+  },
+  "soda": {
+    "category": "beverage",
+    "emoji": "🥤"
+  },
+  "sorbet": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "sour cream": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "sourdough": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "soy milk": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "soy sauce": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "spaghetti": {
+    "category": "pasta",
+    "emoji": "🍝"
+  },
+  "spaghetti squash": {
+    "category": "produce",
+    "emoji": "🍝"
+  },
+  "sparkling lemonade": {
+    "category": "beverage",
+    "emoji": "🍋"
+  },
+  "sparkling water": {
+    "category": "beverage",
+    "emoji": "💧"
+  },
+  "sparkling wine": {
+    "category": "alcohol",
+    "emoji": "🍷"
+  },
+  "spinach": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "spinach dip": {
+    "category": "deli",
+    "emoji": "🥪"
+  },
+  "split pea": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "sponge": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "sports drink": {
+    "category": "beverage",
+    "emoji": "🥤"
+  },
+  "spring onion": {
+    "category": "produce",
+    "emoji": "🧅"
+  },
+  "sprinkle": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "sriracha": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "stain remover": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "starfruit": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "steak": {
+    "category": "meat",
+    "emoji": "🥩"
+  },
+  "steel cut oat": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "stir fry kit": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "stir fry sauce": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "stock cube": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "storage container": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "stout": {
+    "category": "alcohol",
+    "emoji": "🍷"
+  },
+  "strawberry": {
+    "category": "produce",
+    "emoji": "🍓"
+  },
+  "strawberry jam": {
+    "category": "pantry",
+    "emoji": "🫐"
+  },
+  "strawberry yogurt": {
+    "category": "dairy",
+    "emoji": "🥣"
+  },
+  "string cheese": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "sugar": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "sumac": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "summer squash": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "sun-dried tomato": {
+    "category": "produce",
+    "emoji": "🍅"
+  },
+  "sunflower butter": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "sunflower oil": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "sunflower seed": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "sunscreen": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "surface wipe": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "sushi ginger": {
+    "category": "international",
+    "emoji": "🍱"
+  },
+  "sushi rice": {
+    "category": "grain",
+    "emoji": "🍚"
+  },
+  "sweet chili sauce": {
+    "category": "pantry",
+    "emoji": "🌶️"
+  },
+  "sweet potato": {
+    "category": "produce",
+    "emoji": "🍠"
+  },
+  "swiss cheese": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "t-bone": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "tabbouleh": {
+    "category": "international",
+    "emoji": "🍱"
+  },
+  "taco seasoning": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "taco shell": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "tagliatelle": {
+    "category": "pasta",
+    "emoji": "🍝"
+  },
+  "tahini": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "tamari": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "tamarind paste": {
+    "category": "international",
+    "emoji": "🍱"
+  },
+  "tampon": {
+    "category": "personal_care",
+    "emoji": "🧴"
+  },
+  "tangerine": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "tarragon": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "tea": {
+    "category": "beverage",
+    "emoji": "🍵"
+  },
+  "tea bag": {
+    "category": "pantry",
+    "emoji": "🍵"
+  },
+  "teething snack": {
+    "category": "baby",
+    "emoji": "🍼"
+  },
+  "tempeh": {
+    "category": "international",
+    "emoji": "🍱"
+  },
+  "tequila": {
+    "category": "alcohol",
+    "emoji": "🍷"
+  },
+  "teriyaki sauce": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "thyme": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "tilapia": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "tissue": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "tofu": {
+    "category": "international",
+    "emoji": "🍱"
+  },
+  "toilet brush": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "toilet cleaner": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "toilet paper": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "tomatillo": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "tomato": {
+    "category": "produce",
+    "emoji": "🍅"
+  },
+  "tomato passata": {
+    "category": "pantry",
+    "emoji": "🍅"
+  },
+  "tomato paste": {
+    "category": "pantry",
+    "emoji": "🍅"
+  },
+  "tomato sauce": {
+    "category": "pantry",
+    "emoji": "🍅"
+  },
+  "tonic water": {
+    "category": "beverage",
+    "emoji": "💧"
+  },
+  "toothbrush": {
+    "category": "personal_care",
+    "emoji": "🪥"
+  },
+  "toothpaste": {
+    "category": "personal_care",
+    "emoji": "🪥"
+  },
+  "tortellini": {
+    "category": "pasta",
+    "emoji": "🍝"
+  },
+  "tortilla": {
+    "category": "bakery",
+    "emoji": "🌮"
+  },
+  "tortilla chip": {
+    "category": "pantry",
+    "emoji": "🌮"
+  },
+  "tortilla wrap": {
+    "category": "international",
+    "emoji": "🌮"
+  },
+  "trail mix": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "trash bag": {
+    "category": "household",
+    "emoji": "🗑️"
+  },
+  "trout": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "tuna": {
+    "category": "seafood",
+    "emoji": "🐟"
+  },
+  "tuna steak": {
+    "category": "seafood",
+    "emoji": "🥩"
+  },
+  "turkey": {
+    "category": "meat",
+    "emoji": "🦃"
+  },
+  "turkey breast": {
+    "category": "meat",
+    "emoji": "🦃"
+  },
+  "turkey mince": {
+    "category": "meat",
+    "emoji": "🦃"
+  },
+  "turmeric": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "turnip": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "tzatziki": {
+    "category": "deli",
+    "emoji": "🥪"
+  },
+  "udon noodle": {
+    "category": "pasta",
+    "emoji": "🍜"
+  },
+  "udon soup base": {
+    "category": "international",
+    "emoji": "🍱"
+  },
+  "unsalted butter": {
+    "category": "dairy",
+    "emoji": "🧀"
+  },
+  "vanilla extract": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "vanilla yogurt": {
+    "category": "dairy",
+    "emoji": "🥣"
+  },
+  "veal": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "vegetable bouillon": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "vegetable oil": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "vegetable soup mix": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "vermicelli": {
+    "category": "pasta",
+    "emoji": "🍝"
+  },
+  "vinaigrette": {
+    "category": "condiment",
+    "emoji": "🧂"
+  },
+  "vodka": {
+    "category": "alcohol",
+    "emoji": "🍸"
+  },
+  "waffle": {
+    "category": "bakery",
+    "emoji": "🧇"
+  },
+  "waffle mix": {
+    "category": "breakfast",
+    "emoji": "🥣"
+  },
+  "walnut": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "wasabi": {
+    "category": "condiment",
+    "emoji": "🧂"
+  },
+  "water": {
+    "category": "beverage",
+    "emoji": "💧"
+  },
+  "watercress": {
+    "category": "produce",
+    "emoji": "💧"
+  },
+  "watermelon": {
+    "category": "produce",
+    "emoji": "🍉"
+  },
+  "wax bean": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "whipped cream": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "whipping cream": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "whiskey": {
+    "category": "alcohol",
+    "emoji": "🥃"
+  },
+  "white bread": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "white chocolate chip": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "white onion": {
+    "category": "produce",
+    "emoji": "🧅"
+  },
+  "white pepper": {
+    "category": "pantry",
+    "emoji": "🫑"
+  },
+  "white rice": {
+    "category": "grain",
+    "emoji": "🍚"
+  },
+  "white vinegar": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "white wine": {
+    "category": "alcohol",
+    "emoji": "🍷"
+  },
+  "whole chicken": {
+    "category": "meat",
+    "emoji": "🍗"
+  },
+  "whole milk": {
+    "category": "dairy",
+    "emoji": "🥛"
+  },
+  "whole wheat bagel": {
+    "category": "bakery",
+    "emoji": "🥯"
+  },
+  "whole wheat bread": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "whole wheat flour": {
+    "category": "grain",
+    "emoji": "🌾"
+  },
+  "whole wheat naan": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "whole wheat pasta": {
+    "category": "pasta",
+    "emoji": "🍝"
+  },
+  "whole wheat tortilla": {
+    "category": "bakery",
+    "emoji": "🌮"
+  },
+  "whole wheat wrap": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "wild rice": {
+    "category": "grain",
+    "emoji": "🍚"
+  },
+  "wine": {
+    "category": "alcohol",
+    "emoji": "🍷"
+  },
+  "worcestershire sauce": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "wrap": {
+    "category": "bakery",
+    "emoji": "🍞"
+  },
+  "yam": {
+    "category": "produce",
+    "emoji": "🥬"
+  },
+  "yeast": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "yellow onion": {
+    "category": "produce",
+    "emoji": "🧅"
+  },
+  "yogurt": {
+    "category": "dairy",
+    "emoji": "🥣"
+  },
+  "zaatar": {
+    "category": "pantry",
+    "emoji": "🥫"
+  },
+  "zip bag": {
+    "category": "household",
+    "emoji": "🧻"
+  },
+  "zucchini": {
+    "category": "produce",
+    "emoji": "🥬"
+  }
+}
