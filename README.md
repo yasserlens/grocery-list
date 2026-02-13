@@ -1,4 +1,4 @@
-# Grocery List MVP (Option C)
+# Grocery List MVP
 
 This repository contains a starter technical plan and baseline artifacts for a **SvelteKit + Supabase** grocery-list MVP that uses **anonymous share tokens** and an **item assignment cache** for low-cost category/emoji analysis.
 
