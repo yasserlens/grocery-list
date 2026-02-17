@@ -22,6 +22,12 @@
     const data = await res.json();
     window.location.href = `/l/${data.list.shareToken}`;
   }
+
+  function handleTitleKeydown(event: KeyboardEvent) {
+    if (event.key !== 'Enter') return;
+    event.preventDefault();
+    void createList();
+  }
 </script>
 
 <main class="mx-auto max-w-3xl p-8">
@@ -33,6 +39,7 @@
     <input
       id="title"
       bind:value={title}
+      on:keydown={handleTitleKeydown}
       class="mt-2 w-full rounded-md border border-slate-300 px-3 py-2"
       placeholder="Weekly groceries"
     />

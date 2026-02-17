@@ -204,7 +204,7 @@ export function analyzeRawText(rawText: string) {
 }
 
 export function analyzeBatch(rawItems: string[]) {
-  return rawItems.map((rawText) => ({ rawText, ...analyzeRawText(rawText) }));
+  return rawItems.map((rawText) => analyzeRawText(rawText));
 }
 
 export function correctItem(itemId: string, category: GroceryCategory, emoji: string) {
