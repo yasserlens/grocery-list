@@ -11,8 +11,10 @@
   type ItemGroup = { category: string; items: GroceryItem[] };
 
   let newItem = '';
+  let pastedItems = '';
   let newNote = '';
   let creating = false;
+  let bulkCreating = false;
   let deletingItemIds = new Set<string>();
 
   let groupedItems = groupByCategory(data.items);
@@ -81,6 +83,49 @@
     }
 
     creating = false;
+  }
+
+  function sanitizePastedLine(line: string) {
+    return line
+      .trim()
+      .replace(/^[-*•·‣▪◦]+\s*/, '')
+      .replace(/^\.\s+/, '')
+      .replace(/^\d+[.)]\s+/, '')
+      .trim();
+  }
+
+  function parsePastedItems(rawText: string) {
+    return rawText
+      .split(/\r?\n/)
+      .map((line) => sanitizePastedLine(line))
+      .filter(Boolean);
+  }
+
+  async function addPastedItems() {
+    if (!data.selectedNoteId || bulkCreating) return;
+
+    const items = parsePastedItems(pastedItems);
+    if (!items.length) return;
+
+    bulkCreating = true;
+
+    for (const rawText of items) {
+      const res = await fetch(`/api/lists/${data.list.shareToken}/notes/${data.selectedNoteId}/items`, {
+        method: 'POST',
+        headers: { 'content-type': 'application/json' },
+        body: JSON.stringify({ rawText })
+      });
+
+      if (!res.ok) continue;
+
+      const payload = (await res.json()) as {
+        item: GroceryItem;
+      };
+      insertItemIntoGroups(payload.item);
+    }
+
+    pastedItems = '';
+    bulkCreating = false;
   }
 
   async function deleteListItem(itemId: string) {
@@ -236,6 +281,26 @@
           placeholder="Add item"
         />
         <button class="rounded bg-slate-900 px-4 py-2 text-white" on:click={addItem} disabled={creating}>Add</button>
+      </div>
+
+      <div class="mt-4 rounded border border-slate-200 bg-slate-50 p-3">
+        <label class="text-xs font-semibold uppercase tracking-wide text-slate-500" for="bulk-items-input">
+          Paste multiple items (one per line)
+        </label>
+        <textarea
+          id="bulk-items-input"
+          bind:value={pastedItems}
+          rows="6"
+          class="mt-2 w-full rounded border border-slate-300 px-3 py-2 text-sm"
+          placeholder="- Apples\n- Milk\n. Bread"
+        ></textarea>
+        <button
+          class="mt-2 rounded bg-slate-900 px-4 py-2 text-white disabled:opacity-60"
+          on:click={addPastedItems}
+          disabled={bulkCreating}
+        >
+          Add pasted items
+        </button>
       </div>
     </section>
   </div>
